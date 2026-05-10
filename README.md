@@ -24,6 +24,6 @@ Flutter Developer 🚀
 - booking engineering services for construction
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=omarhussien&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarhussien&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=omarhussien)
