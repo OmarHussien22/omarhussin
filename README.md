@@ -13,7 +13,7 @@ Flutter Developer 🚀
 - SQLite
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
-![](https://komarev.com/ghpvc/?username=USERNAME)
+![](https://komarev.com/ghpvc/?username=OmarHussien22)
 
 ## 📱 Featured Projects
 - E-Learning App
@@ -24,6 +24,6 @@ Flutter Developer 🚀
 - booking engineering services for construction
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omarhussien&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarhussien&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=omarhussien)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarHussien22&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHussien22&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=OmarHussien22)
